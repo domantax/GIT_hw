@@ -14,5 +14,9 @@ Green_branch:\
 5 commit
 
 Blue_branch:\
-3rd master commit \
 1st commit blue_branch
+
+Blue_branch:\
+1st commit blue_branch
+2nd commit blue_branch
+
